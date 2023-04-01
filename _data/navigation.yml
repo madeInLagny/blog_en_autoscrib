@@ -1,0 +1,10 @@
+main:
+  - title: "All posts"
+    url: /list/
+side:
+  - title: "All posts"
+    url: /list/
+  - title: "Posts per key words"
+    url: /tags/
+  - title: "Back to autoScrib"
+    url: https://autoscrib.com
