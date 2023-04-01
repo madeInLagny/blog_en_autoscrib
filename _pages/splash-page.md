@@ -7,8 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/home_pic.webp
-  caption: "Foto di <a href='https://unsplash.com/@steve_j'>Steve Johnson</a> su <a href='https://unsplash.com'>Unsplash</a>"
-excerpt: "Il blog di riferimento sul riconoscimento vocale e gli strumenti di trascrizione."
+  caption: "Picture by <a href='https://unsplash.com/@steve_j'>Steve Johnson</a> on <a href='https://unsplash.com'>Unsplash</a>"
+excerpt: "The reference blog on speech recognition and transcription tools."
 ---
 
 <div class="inline">

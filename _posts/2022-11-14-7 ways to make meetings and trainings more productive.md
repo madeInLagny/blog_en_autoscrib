@@ -12,8 +12,7 @@ image_path: "/assets/images/posts/20221114-hero.jpg"
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-hero.jpg" alt="several people around a table" class="full" loading="lazy">
-<figcaption style="color:grey; font-size:10px;">Foto di <a href="https://unsplash.com/it/@evangelineshaw">Evangeline Shaw</a> su <a href="https://unsplash.com">Unsplash</a>
-  </a>
+<figcaption style="color:grey; font-size:10px;">Picture by <a href="https://unsplash.com/it/@evangelineshaw">Evangeline Shaw</a> on <a href="https://unsplash.com">Unsplash</a>
   </figcaption>
 </figure>
 
@@ -33,7 +32,7 @@ Easily select audio sources.
 
 Whether you're in a live meeting or video conference, autoScrib will identify and transcribe every word for you.
 
-<figures>
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-browser select.webp" alt="Illustration of audio source selection menu" class= "full" loading="lazy">
 </figure>
 
@@ -41,7 +40,7 @@ Whether you're in a live meeting or video conference, autoScrib will identify an
 
 Instant transcription can also help in learning a foreign language. You can choose from dozens of languages ​​and dialects. Listen and read the foreign language text simultaneously to understand better and learn faster.
 
-<figures>
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-select-languages.gif" alt="Illustration of the language selection menu to transcribe." class="full" loading="lazy">
 </figure>
 
@@ -49,7 +48,7 @@ Instant transcription can also help in learning a foreign language. You can choo
 
 autoScrib provides instant captions for all videos, regardless of platform. High-quality transcripts are generated using artificial intelligence technology.
 
-<figures>
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-speaker.gif" alt="Screenshot of a video and its subtitles automatically created by autoScrib." class="full" loading="lazy">
 </figure>
 
@@ -57,7 +56,7 @@ autoScrib provides instant captions for all videos, regardless of platform. High
 
 Transcripts are saved in one place, accessible from any device, even offline. The autoScrib editor allows you to add your own notes.
 
-<figures>
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-Content Screen Shot.webp" alt="Screenshot of the page showing the set of transcripts available at autoScrib." class="full" loading="lazy">
 </figure>
 
@@ -65,7 +64,7 @@ Transcripts are saved in one place, accessible from any device, even offline. Th
 
 Store transcripts in many formats, including audio files. Share on social networks using the "Share" button.
 
-<figures>
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-share options.webp" alt="Share transcripts in many languages." class="full" loading="lazy">
 </figure>
 
@@ -73,7 +72,7 @@ Store transcripts in many formats, including audio files. Share on social networ
 
 Technical or very rare words may be omitted or poorly transcribed. Themes let you add words you expect to hear. If in doubt, autoScrib will refer to the list and select the most appropriate item.
 
-<figures>
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20221114-new theme.webp" alt="Create themes to improve transcription accuracy." class="full" loading="lazy">
 </figure>
 
