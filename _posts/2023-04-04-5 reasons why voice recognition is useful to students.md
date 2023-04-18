@@ -16,7 +16,7 @@ image_path: "/assets/images/posts/20230404-hero.jpg"
   </figcaption>
 </figure>
 
-_Speech-to-text technology, also known as voice recognition or dictation software, converts spoken words into written text. It brings many benefits to students and supports any types of learning method._
+_[Speech-to-text technology](https://en.blog.autoscrib.com/Here-is-what-makes-a-good-voice-assistant), also known as voice recognition or dictation software, converts spoken words into written text. It brings many benefits to students and supports any types of learning method._
 
 ## Learning disabilities
 

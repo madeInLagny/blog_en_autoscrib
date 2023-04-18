@@ -20,7 +20,7 @@ _Speech recognition technology developed by autoScrib helps you increase your pr
 
 Did you know that nearly [84% of professionals spend 12 hours or less](https://www.dialpad.com/blog/video-conferencing-report/#time-spent-in-meetings) each week in meetings? The amount of data shared every day in video conferencing and live meetings has never been greater. Tracking and managing information becomes complicated.
 
-This is where a transcription solution, also called speech recognition or automatic dictation, can help.
+This is where a transcription solution, also called [speech recognition](https://en.blog.autoscrib.com/Here-is-what-makes-a-good-voice-assistant/) or automatic dictation, can help.
 
 Automatic speech to text conversion allows you to focus on the content, take notes and save a lot of time searching for information.
 
