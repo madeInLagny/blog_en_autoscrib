@@ -1,6 +1,7 @@
 ---
 title: "7 ways to make meetings and trainings more productive"
 show_date: true
+last_modified_at: 2023-04-18
 excerpt: "Speech recognition technology developed by autoScrib helps you increase your productivity during meetings, face-to-face or online trainings, and even lessons and tutorials. It allows you to take exhaustive and instant notes."
 tags:
   - Productivity

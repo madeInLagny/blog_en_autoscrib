@@ -1,6 +1,7 @@
 ---
 title: "5 reasons why voice recognition is useful to students"
 show_date: true
+last_modified_at: 2023-04-18
 excerpt: "Speech-to-text technology, also known as voice recognition or dictation software, converts spoken words into written text. It brings many benefits to students and supports any types of learning method."
 tags:
   - Students

@@ -1,6 +1,7 @@
 ---
 title: "Here is what makes a good voice assistant"
 show_date: true
+last_modified_at: 2023-04-18
 excerpt: "The ease of use of voice recognition should not overshadow the advanced technologies it uses: voice recognition algorithm, ability to detect accents and dialect, management of 'background noise', dictation transcription speed..."
 tags:
   - Technology
